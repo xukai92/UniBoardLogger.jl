@@ -1,0 +1,9 @@
+name = "UniBoardLogger"
+uuid = "76588ec0-3657-4a7e-88fc-7442bdd7965c"
+authors = ["Kai Xu <contact@xuk.ai>"]
+version = "0.1.0"
+
+[deps]
+RemoteREPL = "1bd9f7bb-701c-4338-bec7-ac987af7c555"
+Term = "22787eb5-b846-44ae-b979-8e399b8463ab"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
